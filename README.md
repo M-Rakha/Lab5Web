@@ -25,7 +25,21 @@ Outputnya :
 
 Outputnya :
 
+![gambar](https://github.com/M-Rakha/Lab5Web/blob/main/code%203.2.png?raw=true)
 
+# 4. Pemakaian Prompt
+
+
+
+Outputnya :
+
+
+
+# 5. Operasi Dasar Aritmatika
+
+
+
+Outputnya :
 
 
 
