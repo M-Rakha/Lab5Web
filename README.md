@@ -21,6 +21,10 @@ Outputnya :
 
 # 3. Pemakaian Method
 
+![gambar](https://github.com/M-Rakha/Lab5Web/blob/main/code%203.png?raw=true)
+
+Outputnya :
+
 
 
 
