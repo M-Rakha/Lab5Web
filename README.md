@@ -17,3 +17,18 @@ Outputnya :
 
 Outputnya :
 
+![gambar](https://github.com/M-Rakha/Lab5Web/blob/main/code%202.2.png?raw=true)
+
+# 3. Pemakaian Method
+
+
+
+
+
+
+
+
+
+
+
+
