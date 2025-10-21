@@ -13,5 +13,7 @@ Outputnya :
 
 # 2. Pemakaian Alert
 
+![gambar](https://github.com/M-Rakha/Lab5Web/blob/main/code%202.png?raw=true)
 
+Outputnya :
 
