@@ -45,6 +45,77 @@ Outputnya :
 
 # 6. Seleksi Kondisi
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%207.png)
+
+Outputnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%207.2.png)
+
+# 7. Penggunaan Operator Switch Untuk Seleksi Kondisi
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%208.png)
+
+Outputnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%208.2.png)
+
+# 8. Form Input
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%209.png)
+
+Outputnya : 
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%209.2.png)
+
+# 9. Form Button
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%2010.png)
+
+Outputnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%2010.2.png)
+
+# 10. Pilihan menggunakan checkBox dengan perhitungan otomatis
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%2011.png)
+
+Outputnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/39331631332ff0bdacd27538f930a2d088de9b00/code%2011.2.png)
+
+# Pertanyaan & Tugas
+1. Buat script untuk melakukan validasi pada isian form.
+Contoh kodenya :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
