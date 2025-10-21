@@ -85,7 +85,13 @@ Outputnya :
 
 # Pertanyaan & Tugas
 1. Buat script untuk melakukan validasi pada isian form.
-Contoh kodenya :
+   Contoh kodenya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/f93bf34531adf83235f730dbeca92c53408bf92f/tgs%201..png)
+
+Outputnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/f93bf34531adf83235f730dbeca92c53408bf92f/Cuplikan%20layar%202025-10-22%20002213.png)
 
 
 
