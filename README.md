@@ -29,7 +29,7 @@ Outputnya :
 
 # 4. Pemakaian Prompt
 
-
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/e9504d76614239cdf5d2db7edc031ac3ba495409/code%204.png)
 
 Outputnya :
 
