@@ -4,3 +4,12 @@
 
 # Awalan :
 Contoh code nya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab5Web/1c0f7562b6c2121c644103fb520315e652006d4c/code%201.png)
+
+Outputnya :
+
+
+
+
+
